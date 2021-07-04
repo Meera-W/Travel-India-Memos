@@ -1,10 +1,16 @@
-# Travel-India-Memos
+# Travel-India-Memos :airplane:
 
 
 <a href="https://ibb.co/Q6YKXwr"><img src="https://i.ibb.co/D7wRL25/ti1.png" alt="ti1" border="0"></a>
 
 ## Introduction
-This is a code repository for our web technology project for 2021. It is a fu
+This is a code repository for our web technology project for 2021. It is a full-stack project built using the MERN stack.
+
+- [x] MongoDB
+- [x] Express
+- [x] React
+- [x] Node
+
 
 The main aim of the project was to create a blogging site for users so that they could easily upload their information, articles and blogs related to their travel experiences in India. The site is simple and user-friendly and enables users to write about tourist attractions in various cities and states of India. 
 
