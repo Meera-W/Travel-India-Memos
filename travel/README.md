@@ -4,8 +4,6 @@
 <a href="https://ibb.co/Q6YKXwr"><img src="https://i.ibb.co/D7wRL25/ti1.png" alt="ti1" border="0"></a>
 
 ## Live Preview : 
-![Website Link](https://travel-india-memos.netlify.app)
-
 https://travel-india-memos.netlify.app
 
 ## Introduction
