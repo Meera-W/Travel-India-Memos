@@ -3,7 +3,7 @@
 
 <a href="https://ibb.co/Q6YKXwr"><img src="https://i.ibb.co/D7wRL25/ti1.png" alt="ti1" border="0"></a>
 
-## Live Preview : ![Website Link]("https://travel-india-memos.netlify.app")
+## Live Preview : ![Website Link](https://travel-india-memos.netlify.app)
 
 ## Introduction
 This is a code repository for our web technology project for 2021. It is a full-stack project built using the MERN stack.
