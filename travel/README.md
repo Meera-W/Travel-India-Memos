@@ -1,13 +1,14 @@
-# Memories
+# Travel-India-Memos
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+![Travel-India-Memos](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+(https://i.ibb.co/jL3rHXg/ti1.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+This is a code repository for our web technology project for 2021. It is a fu
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+The main aim of the project was to create a blogging site for users so that they could easily upload their information, articles and blogs related to their travel experiences in India. The site is simple and user-friendly and enables users to write about tourist attractions in various cities and states of India. 
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+A user can read all blog posts on the home page of the site. If he/she wishes to write a post or like someone else’s post, they must create their own account first. After that, he can sign in anytime he/she wants and continue writing articles. There is no limit to the number of articles that a person can write. There is no limit to the size of the article. The site is also responsive in design, which enables easy reading of the articles on mobile and other sized devices as well.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
