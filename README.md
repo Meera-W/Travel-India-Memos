@@ -19,6 +19,10 @@ The main aim of the project was to create a blogging site for users so that they
 
 A user can read all blog posts on the home page of the site. If he/she wishes to write a post or like someone else’s post, they must create their own account first. After that, he can sign in anytime he/she wants and continue writing articles. There is no limit to the number of articles that a person can write. There is no limit to the size of the article. The site is also responsive in design, which enables easy reading of the articles on mobile and other sized devices as well.
 
+- Team Members :
+-- Meera Wadher
+-- Gauri Shewale
+
 ## Snapshots
 
 > ### Code, Routes & Project Structure :computer:
