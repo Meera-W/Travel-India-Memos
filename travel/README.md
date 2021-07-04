@@ -12,7 +12,7 @@ A user can read all blog posts on the home page of the site. If he/she wishes to
 
 ## Snapshots
 
-#### Code, Routes & Project Structure 
+#### Code, Routes & Project Structure :computer:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3zrhhhk/ti2.png" alt="ti2" border="0"></a>
 
@@ -20,5 +20,23 @@ A user can read all blog posts on the home page of the site. If he/she wishes to
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/v1JzYJY/ti4.png" alt="ti4" border="0"></a>
 
+#### Website Design 
+
+<a href="https://ibb.co/tD5Jb5d"><img src="https://i.ibb.co/HqQHrQJ/2021-07-04.png" alt="2021-07-04" border="0"></a>
+
+<a href="https://ibb.co/2ny99cM"><img src="https://i.ibb.co/dWrTTkp/ti5.png" alt="ti5" border="0"></a>
+
+<a href="https://ibb.co/ThX1fX6"><img src="https://i.ibb.co/DKXYJXh/ti6.png" alt="ti6" border="0"></a>
+
+<a href="https://ibb.co/dbBG5Nd"><img src="https://i.ibb.co/SQNR3kh/ti7.png" alt="ti7" border="0"></a>
+
+<a href="https://ibb.co/GkGSKBD"><img src="https://i.ibb.co/bLY9SqV/ti8.png" alt="ti8" border="0"></a>
+
+<a href="https://ibb.co/F4R39KS"><img src="https://i.ibb.co/nMxmTbH/ti9.png" alt="ti9" border="0"></a>
+
+<a href="https://ibb.co/Yfvh5qc"><img src="https://i.ibb.co/SVqBk9t/ti10.png" alt="ti10" border="0"></a>
+
+<a href="https://ibb.co/d76SXHH"><img src="https://i.ibb.co/Yb86JVV/ti11.png" alt="ti11" border="0"></a>
+
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+- Insert your Mongodb Connection Url for db connection & client id for Google OAuth. run ```npm i && npm start``` for both client and server side to start the app. 
